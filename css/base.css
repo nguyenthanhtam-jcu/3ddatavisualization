@@ -1,0 +1,18 @@
+body 
+{
+	font-family: Monospace;
+	font-weight: bold;
+	background-color: #ccccff;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#inputSection{
+	float: right;
+	margin-right: 70px;
+}
+
+#abc123456{
+	margin-left:0;
+}
+
